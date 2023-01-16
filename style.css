@@ -1,0 +1,31 @@
+img {
+  height: 230px;
+  width: 150px;
+  rotate: -90deg;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section-center {
+}
+.giveaway {
+  height: 20px;
+  width: 300px;
+}
+.deadline {
+  display: flex;
+}
+.hours,
+.minutes,
+.days,
+.seconds {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  background: #f4f4f4;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
